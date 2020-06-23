@@ -14,18 +14,18 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    
   </dependencies>
-    <distributionManagement>
-<repository>
-          <id>github</id>
-          <name>GitHub OWNER Apache Maven Packages</name>
-          <url>https://maven.pkg.github.com/kmayer10/epsilon</url>
-    </repository>
-</distributionManagement> 
   <build>
     <finalName>epsilon</finalName>
   </build>
-</project> 
+<distributionManagement>
+<repository>
+          <id>github</id>
+          <name>GitHub OWNER Apache Maven Packages</name>
+          <url>https://maven.pkg.github.com/SwapnaEraga/epsilon</url>
+    </repository>
+</distributionManagement>
+
+</project>
   
 
